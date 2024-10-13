@@ -4,7 +4,7 @@ The application runs from the command line, accept the GitHub username as an arg
 
 Fetch the recent activity of the specified GitHub user using the GitHub API. You can use the following endpoint to fetch the user’s activity:
 
-https://api.github.com/users/<username>/events
+https://api.github.com/users/username/events
 Example: https://api.github.com/users/kamranahmedse/events
 
 Display the fetched activity in the terminal.
